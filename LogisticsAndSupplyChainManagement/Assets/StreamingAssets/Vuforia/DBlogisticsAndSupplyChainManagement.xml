@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sakaryaLogo9-5" size="9.500000 12.874381" />
+    <ImageTarget name="sakaryaLogo" size="17.000000 23.038366" />
+  </Tracking>
+</QCARConfig>
